@@ -43,7 +43,9 @@ Commit data
 Step 4: Check the Repository Status
 You can check the current state of your repository by running:
 
-
+2. Committing Changes
+   After you initialize a repository and make some changes in your files, Git allows you to save those changes in its history.
+   .1 Git add, commit, and commit messages
 
 
   
