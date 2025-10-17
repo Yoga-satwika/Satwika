@@ -47,7 +47,8 @@ You can check the current state of your repository by running:
    After you initialize a repository and make some changes in your files, Git allows you to save those changes in its history.
    .1 Git add, commit, and commit messages
 
-4. Remote Repositories: 
+4. Remote Repositories:
+    A remote repository is a version of your project hosted on a server — such as GitHub, GitLab, or Bitbucket — that allows collaboration and backup.
 
 4.1 Cloning repositories from remote sources.  
 
