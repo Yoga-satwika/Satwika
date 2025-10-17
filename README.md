@@ -48,7 +48,7 @@ You can check the current state of your repository by running:
    .1 Git add, commit, and commit messages
 
 4. Remote Repositories:
-    A remote repository is a version of your project hosted on a server — such as GitHub, GitLab, or Bitbucket — that allows collaboration and backup.
+     A remote repository is a version of your project hosted on a server — such as GitHub, GitLab, or Bitbucket — that allows collaboration and backup.
 
 4.1 Cloning repositories from remote sources.  
 
