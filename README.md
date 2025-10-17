@@ -47,7 +47,11 @@ You can check the current state of your repository by running:
    After you initialize a repository and make some changes in your files, Git allows you to save those changes in its history.
    .1 Git add, commit, and commit messages
 
+4. Remote Repositories: 
 
+4.1 Cloning repositories from remote sources.  
+
+4.2 Pushing changes to remote repositories.  
   
 
   
