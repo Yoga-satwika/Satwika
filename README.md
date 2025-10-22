@@ -7,7 +7,15 @@ It allows multiple people to work on the same project without overwriting each o
  <img width="932" height="430" alt="git" src="https://github.com/user-attachments/assets/c1f8077f-d7ce-43bb-9f5f-a4ce69e7d718" />
  
 Committing Changes 
-         Git add, commit, and commit messages.
+      Git add, commit, and commit messages.
 
+
+Committing changes to the local repository
+
+Branching and Merging: 
+       Basics of branching and merging in Git.  
+       Creating branches for new features or bug fixes.  
+
+ Remote Repositories:
       
 
