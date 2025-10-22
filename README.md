@@ -8,9 +8,7 @@ It allows multiple people to work on the same project without overwriting each o
  
 Committing Changes 
       Git add, commit, and commit messages.
-          
-
-
+<img width="451" height="359" alt="image" src="https://github.com/user-attachments/assets/e3e320c7-8047-4299-ba9a-2e658ebd6847" />
 Committing changes to the local repository
 
 Branching and Merging: 
