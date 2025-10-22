@@ -10,11 +10,16 @@ Committing Changes
       Git add, commit, and commit messages.
 <img width="451" height="359" alt="image" src="https://github.com/user-attachments/assets/e3e320c7-8047-4299-ba9a-2e658ebd6847" />
 Committing changes to the local repository
+    <img width="412" height="458" alt="image" src="https://github.com/user-attachments/assets/d5daf482-6282-4d23-97e8-7b61dcacc150" />
 
 Branching and Merging: 
        Basics of branching and merging in Git.  
        Creating branches for new features or bug fixes.  
+       
+Remote Repositories:
+      A remote repository on GitHub is an online version of your local Git repository.
+      Cloning Repositories from Remote Sources 
+ Cloning means copying an existing remote repository (from GitHub or elsewhere) to your local computer.
 
- Remote Repositories:
       
 
