@@ -1,63 +1,127 @@
- Repository: 
-       Repository means a storage place where all your project files and their change history are saved and managed.
-1.1 Understanding what a Git repository is.  
-      A Git repository is a version-controlled folder.
-      version - controlled folders is a normal folder where Git keeps track of every change you make to the files — like saving all versions so you can go back anytime.
+# Git & GitHub
+ Git:- Git is a version control system (VCS) — a tool that helps you track changes in your code over time.
+       Git and github allows us to entain the history of the project at a particular point of time, which person made which change where in the project, git helps us in doing that.
+       Github is a platform on online website that allows us to host or git repositories.
+       
+ # Repository
+  Understanding what a Git repository is and Initialization of a new repository.
+ <img width="932" height="430" alt="git" src="https://github.com/user-attachments/assets/c1f8077f-d7ce-43bb-9f5f-a4ce69e7d718" />
+ 
+ # Committing Changes 
+  Git add, commit, and commit messages.
+<img width="451" height="359" alt="image" src="https://github.com/user-attachments/assets/e3e320c7-8047-4299-ba9a-2e658ebd6847" />
+Committing changes to the local repository
+    <img width="412" height="458" alt="image" src="https://github.com/user-attachments/assets/d5daf482-6282-4d23-97e8-7b61dcacc150" />
+
+Branching and Merging: 
+       Basics of branching and merging in Git.  
+       Creating branches for new features or bug fixes.  
+       
+Remote Repositories:
+      A remote repository on GitHub is an online version of your local Git repository.
+ Cloning Repositories from Remote Sources 
+             Cloning means copying an existing remote repository (from GitHub or elsewhere) to your local computer.
+Pushing changes to remote repositories. 
+       Pushing means sending your committed changes from your local repository to a remote repository.
+
+Collaborative Work:
+       Git and GitHub make it easy for multiple developers to work together on the same project without overwriting each other’s changes.
+       
+Working with others on the same project.  
+       Collaboration means multiple people contribute to the same codebase, each working on their own copy (branch or fork) and later merging their changes into the main project.
+       
+Handling merge conflicts.  
+       A merge conflict occurs when two people edit the same line of code (or file) in different branches, and Git doesn’t know which change to keep.
+
+Git Ignore: 
+     Ignoring files and directories using. gitignore.  
+         The gitignore files tells git which files or folders to skip tracking - preventing unwanted files from being committed to the repository.
+
+ Tagging: 
+       Creating and managing tags for releases or specific points in history.  
+              Tagging is used to make a specific commit in git history and helps identify stable versions like v1.0,v2.0
+      Two types
+          Lightweight tag
+              Simple printer to a commit- like a quick label 
+           #git tag v1.0
+           
+Undoing Changes: 
+      Reverting commits     
+      Resetting changes.
+             Undoing changes in git means reverting your repository to a previous state, like discarding, undoing committs or resetting.
+
+ Git Config: 
+        Configuration settings for Git, including user information.  
+            Git command used to set, view and manage configuration settings for git. It helps you define important details like your username, mail.
+ 
+ Git Hooks: 
+      Understanding and utilizing Git hooks for customizing workflows. 
+           Git Hooks are scripts that run automatically when certain git events occur-like commit, push, or merge. They helps in automatic checks.
+
+Submodules: 
+     Managing and working with submodules within a Git repository.  
+           Manage external repositories inside your project.
+          Submodules allows you to keep another git repository inside your main repository.
+
+Interactive Rebase: 
+      Interactive rebasing for more controlled commit history.  
+           Interact rebase is a poweful git command that lets you edit,reorder,combine,or remove committs in your branch.
+
+ Stashing: 
+      Temporarily saving changes using git stash.  
+           Temporarily save changes without committing so you can switch branches or pull updates without losing your work.
+
+ Git GUIs: 
+      Introduction to graphical user interfaces for Git.  
+         Git GUI's are graphical user interface that provide a visual way to interact with git repositories.
+
+ Advanced Topics: 
+    Topics like reflogs, bisect, and advanced use cases.  
+       Git Reflog :- Git reflog is called as reference log. It records every movement of branch tips and head in local repository.
+       It helps recover lost committs or to track changes made to the HEAD
+Git Commands: 
+       Git Clone: Clones a repository into a new directory.  
+               
+          git clone <repository_url>
+Git Add: Adds changes in the working directory to the staging area.  
+
+          git add <file_name>
+
+Git Push: Pushes local changes to a remote repository.  
+
+         git push origin <branch_name>
+
+ Git Pull: Fetches changes from a remote repository and merges them into the current branch.  
+
+     git pull
+
+ Git Fetch: Fetches changes from a remote repository but does not automatically merge them.  
+
+     git fetch
+
+ Git Merge: Merges changes from one branch into another.  
+
+    git merge <branch_name>
+
+ Git Rebase: Combines a sequence of commits into a new base commit.  
+    
+      git rebase <branch_name>
+
+ Git Revert: Creates a new commit that undoes changes made in a previous commit.  
+
+     git revert <commit_id>
+
+ Git Cherry Pick: Picks a commit from one branch and applies it to another.  
+
+      git cherry-pick <commit_id>
+
+Git Reset: Resets the current branch to a specific commit, optionally preserving changes as uncommitted.  
+
+      git reset --hard <commit_id>
+
+ Git Revert (again): Creates a new commit that undoes changes made in a previous commit. 
+
+         git revert <commit_id>
+
       
-   It contains:
-      
- Files and folders of your project.
-      Commit history (all previous versions of your files).
-      Branches (different development lines).
-      Types of repositories:
-      Local repository – exists on your own computer.
-      Remote repository – exists on a server (like GitHub, GitLab, or Bitbucket) to share with others.
-
-1.2 Initialization of a new repository.  
-    Step 1: Open the Terminal or Command Prompt
-            On Windows: You can use Git Bash or Command Prompt.
-            On Mac/Linux: Use the built-in Terminal.
-  
-   Step 2: Navigate to Your Project Folder
-Use the cd command (which means change directory) to go inside the folder you want to track.
-Example:
-<img width="457" height="244" alt="image" src="https://github.com/user-attachments/assets/38756bec-a84d-4c6d-bd3b-8af9bfc1ebd6" />
-
-     cd path/to/your/project
-  If your project folder is named myproject and is on the desktop:
-<img width="457" height="244" alt="image" src="https://github.com/user-attachments/assets/7a704147-bf09-4bdf-abb9-ab866c806f22" />
-
-     cd Desktop/myproject
-  Step 3: Initialize Git
-
-  Run the following command
-<img width="457" height="244" alt="image" src="https://github.com/user-attachments/assets/af0729bc-c3e0-4b6b-a6bf-b07543988dc3" />
-
-  Git creates a hidden folder named .git inside your project.
-
-This .git folder stores:
-All version history
-Configuration files
-Branch information
-Commit data
-Step 4: Check the Repository Status
-You can check the current state of your repository by running:
-
-2. Committing Changes
-   After you initialize a repository and make some changes in your files, Git allows you to save those changes in its history.
-   .1 Git add, commit, and commit messages
-
-4. Remote Repositories:
-    A remote repository is a version of your project hosted on a server — such as GitHub, GitLab, or Bitbucket — that allows collaboration and backup.
-
-4.1 Cloning repositories from remote sources.  
-
-4.2 Pushing changes to remote repositories.  
-  
-
-  
-
-
-
-
 
