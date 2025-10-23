@@ -12,11 +12,11 @@
    <img width="462" height="355" alt="image" src="https://github.com/user-attachments/assets/93531537-1347-4505-a378-aa53dd3b2d69" />
 
 Committing changes to the local repository
-   
+<img width="570" height="86" alt="image" src="https://github.com/user-attachments/assets/e2011527-9583-42cc-b990-d1220374587f" />   
 
-Branching and Merging: 
-       Basics of branching and merging in Git.  
-       Creating branches for new features or bug fixes.  
+# Branching and Merging: 
+   Basics of branching and merging in Git.  
+   Creating branches for new features or bug fixes.  
        
 Remote Repositories:
       A remote repository on GitHub is an online version of your local Git repository.
