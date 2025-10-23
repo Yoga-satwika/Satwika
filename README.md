@@ -22,13 +22,15 @@ Committing changes to the local repository
 # Branching and Merging: 
    Basics of branching and merging in Git.  
    Creating branches for new features or bug fixes.  
-       
-Remote Repositories:
-      A remote repository on GitHub is an online version of your local Git repository.
+    <img width="650" height="411" alt="image" src="https://github.com/user-attachments/assets/a5c72dc8-16bd-4959-89fe-40808269f874" />
+   
+# Remote Repositories:
+   A remote repository on GitHub is an online version of your local Git repository.
  Cloning Repositories from Remote Sources 
              Cloning means copying an existing remote repository (from GitHub or elsewhere) to your local computer.
 Pushing changes to remote repositories. 
        Pushing means sending your committed changes from your local repository to a remote repository.
+<img width="610" height="169" alt="image" src="https://github.com/user-attachments/assets/ee343626-8310-4555-adb6-f2a6d9e6cfdc" />
 
 Collaborative Work:
        Git and GitHub make it easy for multiple developers to work together on the same project without overwriting each other’s changes.
