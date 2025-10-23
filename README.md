@@ -68,11 +68,15 @@ Handling merge conflicts.
     Resetting changes.
              Undoing changes in git means reverting your repository to a previous state, like discarding, undoing committs or resetting.
 
-    
+   <img width="382" height="192" alt="image" src="https://github.com/user-attachments/assets/d0d52df4-863c-4656-a0fa-59f6608ace74" />
 
- Git Config: 
-        Configuration settings for Git, including user information.  
+
+# Git Config: 
+   Configuration settings for Git, including user information.  
             Git command used to set, view and manage configuration settings for git. It helps you define important details like your username, mail.
+
+
+            
  
  Git Hooks: 
       Understanding and utilizing Git hooks for customizing workflows. 
