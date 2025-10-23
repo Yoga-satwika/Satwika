@@ -131,17 +131,29 @@ Git Push: Pushes local changes to a remote repository.
     
       git rebase <branch_name>
 
+  <img width="942" height="428" alt="image" src="https://github.com/user-attachments/assets/419d814e-76cb-4f52-b304-449b0817f80c" />
+
+
  Git Revert: Creates a new commit that undoes changes made in a previous commit.  
 
      git revert <commit_id>
+
+   <img width="954" height="452" alt="image" src="https://github.com/user-attachments/assets/00218f24-ff7e-4c2d-90b0-5d091d930027" />
+
 
  Git Cherry Pick: Picks a commit from one branch and applies it to another.  
 
       git cherry-pick <commit_id>
 
+  <img width="946" height="437" alt="image" src="https://github.com/user-attachments/assets/7b11d85e-eb7c-4fd8-b7d9-52e6c8de58d7" />
+
+
 Git Reset: Resets the current branch to a specific commit, optionally preserving changes as uncommitted.  
 
       git reset --hard <commit_id>
+
+  <img width="954" height="452" alt="image" src="https://github.com/user-attachments/assets/2a0e7caa-8694-4a77-88c1-49f2862880e2" />
+
 
  Git Revert (again): Creates a new commit that undoes changes made in a previous commit. 
 
@@ -155,9 +167,24 @@ Git Reset: Resets the current branch to a specific commit, optionally preserving
  
 Learn Git Branching
 An interactive Git visualization tool to educate and challenge!
+
+ #  Branch & Merge
  
 
    <img width="954" height="440" alt="image" src="https://github.com/user-attachments/assets/7f6fe919-c933-4008-928d-d0910232fc35" />
 
-      
+ # Interactive Rebase 
+
+   <img width="938" height="435" alt="image" src="https://github.com/user-attachments/assets/90df144a-f06a-41ef-823c-10c1aff6fe45" />
+
+# Relative Refs
+
+   <img width="948" height="444" alt="image" src="https://github.com/user-attachments/assets/bb0e89c5-7f43-40fe-ba8e-2268c77df9ff" />
+
+ # Juggling Commits
+  
+  <img width="954" height="457" alt="image" src="https://github.com/user-attachments/assets/739807e9-1438-4ba1-a79b-1ff5f171ca16" />
+
+     
+  # Juggling Commits   #2
 
