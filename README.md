@@ -30,10 +30,13 @@ Committing changes to the local repository
              Cloning means copying an existing remote repository (from GitHub or elsewhere) to your local computer.
 Pushing changes to remote repositories. 
        Pushing means sending your committed changes from your local repository to a remote repository.
+
+
 <img width="610" height="169" alt="image" src="https://github.com/user-attachments/assets/ee343626-8310-4555-adb6-f2a6d9e6cfdc" />
 
-Collaborative Work:
-       Git and GitHub make it easy for multiple developers to work together on the same project without overwriting each other’s changes.
+
+# Collaborative Work:
+   Git and GitHub make it easy for multiple developers to work together on the same project without overwriting each other’s changes.
        
 Working with others on the same project.  
        Collaboration means multiple people contribute to the same codebase, each working on their own copy (branch or fork) and later merging their changes into the main project.
