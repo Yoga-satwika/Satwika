@@ -60,12 +60,15 @@ Handling merge conflicts.
               Simple printer to a commit- like a quick label 
            #git tag v1.0
 
-           
-           
-Undoing Changes: 
-      Reverting commits     
-      Resetting changes.
+   <img width="444" height="424" alt="image" src="https://github.com/user-attachments/assets/43f1e346-f550-421a-9095-57a6a7b3af07" />
+      
+          
+ # Undoing Changes: 
+   Reverting commits     
+    Resetting changes.
              Undoing changes in git means reverting your repository to a previous state, like discarding, undoing committs or resetting.
+
+    
 
  Git Config: 
         Configuration settings for Git, including user information.  
