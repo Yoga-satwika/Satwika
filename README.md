@@ -147,5 +147,17 @@ Git Reset: Resets the current branch to a specific commit, optionally preserving
 
          git revert <commit_id>
 
+
+ # Git Visualization
+   Visualization in Git is the process of representing the commits, branches, and merges in a visual format to make it easier to understand the structure and evolution of a repository
+
+ # https://learngitbranching.js.org/
+ 
+Learn Git Branching
+An interactive Git visualization tool to educate and challenge!
+ 
+
+         <img width="954" height="440" alt="image" src="https://github.com/user-attachments/assets/7f6fe919-c933-4008-928d-d0910232fc35" />
+
       
 
