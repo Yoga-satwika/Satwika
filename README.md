@@ -157,7 +157,7 @@ Learn Git Branching
 An interactive Git visualization tool to educate and challenge!
  
 
-         <img width="954" height="440" alt="image" src="https://github.com/user-attachments/assets/7f6fe919-c933-4008-928d-d0910232fc35" />
+   <img width="954" height="440" alt="image" src="https://github.com/user-attachments/assets/7f6fe919-c933-4008-928d-d0910232fc35" />
 
       
 
