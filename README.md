@@ -44,9 +44,11 @@ Working with others on the same project.
 Handling merge conflicts.  
        A merge conflict occurs when two people edit the same line of code (or file) in different branches, and Git doesn’t know which change to keep.
 
-Git Ignore: 
-     Ignoring files and directories using. gitignore.  
+# Git Ignore: 
+   Ignoring files and directories using. gitignore.  
          The gitignore files tells git which files or folders to skip tracking - preventing unwanted files from being committed to the repository.
+
+         
 
  Tagging: 
        Creating and managing tags for releases or specific points in history.  
