@@ -8,11 +8,15 @@
  <img width="932" height="430" alt="git" src="https://github.com/user-attachments/assets/c1f8077f-d7ce-43bb-9f5f-a4ce69e7d718" />
  
  # Committing Changes 
-  Git add, commit, and commit messages.
+  
+   Git add, commit, and commit messages.
+   
    <img width="462" height="355" alt="image" src="https://github.com/user-attachments/assets/93531537-1347-4505-a378-aa53dd3b2d69" />
 
 
+
 Committing changes to the local repository
+
 <img width="570" height="86" alt="image" src="https://github.com/user-attachments/assets/e2011527-9583-42cc-b990-d1220374587f" />   
 
 # Branching and Merging: 
