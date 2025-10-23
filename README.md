@@ -48,15 +48,19 @@ Handling merge conflicts.
    Ignoring files and directories using. gitignore.  
          The gitignore files tells git which files or folders to skip tracking - preventing unwanted files from being committed to the repository.
 
+
+<img width="482" height="347" alt="image" src="https://github.com/user-attachments/assets/ddefbc05-f8d6-43b4-88ca-2d79ec01fdc4" />
          
 
- Tagging: 
-       Creating and managing tags for releases or specific points in history.  
-              Tagging is used to make a specific commit in git history and helps identify stable versions like v1.0,v2.0
+#  Tagging: 
+   Creating and managing tags for releases or specific points in history.  
+       Tagging is used to make a specific commit in git history and helps identify stable versions like v1.0,v2.0
       Two types
           Lightweight tag
               Simple printer to a commit- like a quick label 
            #git tag v1.0
+
+           
            
 Undoing Changes: 
       Reverting commits     
