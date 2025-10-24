@@ -8,6 +8,7 @@
  <img width="932" height="430" alt="git" src="https://github.com/user-attachments/assets/c1f8077f-d7ce-43bb-9f5f-a4ce69e7d718" />
  
  # Committing Changes 
+   Saving your work with a message permanently
   
    Git add, commit, and commit messages.
    
